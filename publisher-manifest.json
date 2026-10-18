@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "820f13329e3281a22ed359ba",
+  "owner": "xw8fcne9",
+  "repo": "page-c060a99d6113b5eb91d080ae",
+  "title": "完美机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c060a99d6113b5eb91d080ae",
+      "a": "完美机场",
+      "b": "",
+      "entity": "完美机场",
+      "brand": "完美机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "262b6c47bd3113a5ce4c6e03ee14b35181b637caf3c97a7eec3a1522b4def9a2",
+      "content": {
+        "keyword1": "完美机场",
+        "keyword2": "",
+        "primary_entity": "完美机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "完美机场用问答带你看清订阅怎么选、流量怎么用、客户端从哪入手。石板灰与青色的杂志式排版，把套餐、步骤和疑问摊开写明白。",
+          "AI_DESCRIPTION": "完美机场用问答带你看清订阅怎么选、流量怎么用、客户端从哪入手。石板灰与青色的杂志式排版，把套餐、步骤和疑问摊开写明白。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#4a5560;color:#e8eef2;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",\"serif\";line-height:1.65}\na{color:#2dd4bf;text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{max-width:1120px;margin:0 auto;padding:16px}\n.crumb{font-size:12px;letter-spacing:.08em;color:#94a3b8;padding:10px 0 6px;border-bottom:1px solid #64748b}\n.crumb span{color:#2dd4bf}\n.toc{display:flex;flex-wrap:wrap;gap:10px 18px;padding:10px 0 22px;font-size:13px}\n.toc a{color:#cbd5e1}\nmain{padding-bottom:48px}\n.mag{display:grid;grid-template-columns:1.4fr .8fr .9fr;gap:18px 22px;align-items:start}\n.mag h1{font-size:clamp(36px,7vw,72px);line-height:0.95;color:#f1f5f9;letter-spacing:-.03em;grid-column:1 / -1}\n.lead{font-size:18px;color:#d1d5db}\n.quote{border-left:3px solid #2dd4bf;padding:8px 0 8px 14px;color:#99f6e4;font-size:15px}\n.side{background:#334155;padding:16px 18px;color:#e2e8f0;font-size:14px}\n.side h2{font-size:14px;color:#2dd4bf;margin-bottom:8px;font-weight:600}\nh2{font-size:26px;color:#f8fafc;margin:36px 0 14px;letter-spacing:-.02em}\nh3{font-size:18px;color:#99f6e4;margin:18px 0 8px}\np,li{font-size:16px}\n.numcard{position:relative;padding:22px 18px 18px;margin:0 0 14px;background:#3f4a57;overflow:hidden}\n.numcard .bg{position:absolute;right:8px;bottom:-18px;font-size:92px;line-height:1;color:rgba(45,212,191,.12);font-weight:700;pointer-events:none}\n.numcard h3{position:relative;margin-top:0}\n.numcard ul{position:relative;margin:8px 0 0 18px}\n.plans{display:flex;flex-direction:column;gap:0}\n.planrow{border-bottom:1px solid #64748b;padding:16px 4px 18px}\n.planrow .meta{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:baseline;margin-bottom:8px}\n.planrow .name{font-size:22px;color:#f8fafc}\n.planrow .price{color:#2dd4bf;font-size:18px}\n.planrow .year{color:#94a3b8;font-size:14px}\n.mark{font-size:12px;color:#0f172a;background:#2dd4bf;padding:2px 8px;letter-spacing:.06em}\n.planrow ul{margin-left:18px;color:#e2e8f0}\n.faq ol{margin-left:22px}\n.faq li{margin:0 0 16px}\n.faq strong{display:block;color:#f8fafc;margin-bottom:4px}\n.steps{display:grid;grid-template-columns:1fr;gap:12px}\n.note{font-size:14px;color:#94a3b8;margin-top:10px}\nfooter{border-top:1px solid #64748b;padding:20px 0;font-size:13px;color:#94a3b8}\n@media(max-width:800px){\n.mag{grid-template-columns:1fr}\n.mag h1{font-size:42px}\n}\n</style><div class=\"wrap\">\n<nav>\n<div class=\"crumb\">首页 / <span>完美机场</span> / 阅读页</div>\n<div class=\"toc\">\n<a href=\"#intro\">开篇</a>\n<a href=\"#plans\">套餐怎么选</a>\n<a href=\"#use\">使用说明</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</nav>\n<main>\n<section class=\"mag\" id=\"intro\">\n<h1>完美机场</h1>\n<p class=\"lead\">先问一句：你是来核对流量额度、设备数量，还是只想把订阅条款读完？下面用杂志分栏把答案摊开，不堆口号。</p>\n<p class=\"quote\">「选套餐之前，先数清自己同时在线的设备，再决定每月要走多少流量。」——编辑部开场白</p>\n<aside class=\"side\">\n<h2>这一页回答什么</h2>\n<p>谁适合基础版、谁该看旗舰版、团队版多出来的是哪些条目。客户端没有官方下载清单时，只写中性提示，不编造地址。</p>\n</aside>\n</section>\n\n<section id=\"plans\">\n<h2>套餐怎么选：纵向逐行对照</h2>\n<p>问：三档差在哪里？答：额度、同时在线台数、以及条款里写明的线路与支持方式。价格按参考档写入，便于你对照月付与年付。</p>\n<div class=\"plans\">\n<article class=\"planrow\">\n<div class=\"meta\"><span class=\"name\">基础版</span><span class=\"price\">¥15/月</span><span class=\"year\">按年付仅需 ¥150/年</span></div>\n<ul>\n<li>每月 100GB 流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</article>\n<article class=\"planrow\">\n<div class=\"meta\"><span class=\"name\">旗舰版</span><span class=\"price\">¥35/月</span><span class=\"year\">按年付仅需 ¥350/年</span><span class=\"mark\">对照推荐</span></div>\n<ul>\n<li>每月 300GB 流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</article>\n<article class=\"planrow\">\n<div class=\"meta\"><span class=\"name\">团队版</span><span class=\"price\">¥85/月</span><span class=\"year\">按年付仅需 ¥850/年</span></div>\n<ul>\n<li>每月 1000GB 流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section id=\"use\">\n<h2>使用说明：按编号把流程问完</h2>\n<div class=\"steps\">\n<article class=\"numcard\">\n<span class=\"bg\">01</span>\n<h3>订阅前先问自己</h3>\n<p>同时要挂几台设备？一个月大概会走多少流量？需要工单优先还是只要普通线路池？把这三个问题写下来，再回头看上一节三行套餐。</p>\n</article>\n<article class=\"numcard\">\n<span class=\"bg\">02</span>\n<h3>开通后怎么用</h3>\n<p>在账户里找到订阅凭证，导入你正在用的客户端配置。导入成功后，按客户端自己的开关连接。本页不提供未核实的节点名单或速度承诺。</p>\n</article>\n<article class=\"numcard\">\n<span class=\"bg\">03</span>\n<h3>流量与设备超限怎么办</h3>\n<p>额度用尽或设备数顶满时，先停掉闲置会话，再考虑升档。团队协作请直接对照团队版的台数与定制路由条目，而不是把个人档硬拆给多人。</p>\n</article>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端：没有清单时怎么处理</h2>\n<p>问：官方安装包在哪？答：目前没有可核验的下载地址，因此不填写商店链接，也不伪造文件名。你可以使用自己已安装、且能导入订阅的通用客户端；导入方式以该软件说明为准。</p>\n<p class=\"note\">链接留空：#</p>\n</section>\n\n<section class=\"faq\" id=\"faq\">\n<h2>常见问题</h2>\n<ol>\n<li>\n<strong>完美机场是什么？</strong>\n本页是品牌阅读页，用问答整理订阅档位与操作顺序。未提供的公司资质、节点规模与测评数据，这里一律不写。\n</li>\n<li>\n<strong>年付一定更划算吗？</strong>\n按参考价：基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。是否划算取决于你是否连续使用满十二个月。\n</li>\n<li>\n<strong>基础流媒体和全节点原生解锁有何不同？</strong>\n条款字面差在覆盖范围。基础版写「解锁基础流媒体」，旗舰版写「全节点原生流媒体解锁」。具体片源以实际开通后的条款为准。\n</li>\n<li>\n<strong>没有客户端地址还能开始吗？</strong>\n可以先选定套餐并保存订阅信息，再在你现有的客户端里导入。切勿从不明来源下载安装包。\n</li>\n<li>\n<strong>工单优先包含哪些承诺？</strong>\n仅旗舰版写明 7x24 优先工单支持。响应时效、渠道名称未在事实清单中给出，故不补充。\n</li>\n</ol>\n</section>\n</main>\n<footer>完美机场 · 静态说明页 · 仅展示已给出的套餐条目</footer>\n</div>",
+          "hash": "406c4d3080997ca90e724a413ef906517002eb85a859385faad0d00bca575dbd",
+          "seo": {
+            "title": "完美机场｜用问答把订阅、流量与客户端说清楚",
+            "keywords": "完美机场,订阅说明,流量套餐,客户端下载,常见问题",
+            "description": "完美机场用问答带你看清订阅怎么选、流量怎么用、客户端从哪入手。石板灰与青色的杂志式排版，把套餐、步骤和疑问摊开写明白。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "4666",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "7 石板灰配青色",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nswnn.cn",
+    "host": "p-a2c1ae8312.nswnn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "14f5c089dfbfb5bd6869c9c5dc75e9c4a3f2cbad9fe9541216076f9ee12b6d9a",
+    "sitemap.xml": "c1284346c9c1d73de19f7105b8b08d26900cc38d972c1ca4e8916d0662c9234e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c54f785fc86e52c578e03f8211b87caa8cade49822e239c7ca9da14df4089f52",
+    "robots.txt": "08a692f2f61278108518c7bc56e570b95dc939ffc4702504bb5c31eda551c83c",
+    "51fa85fd7204d31fe0b28a8b27d08f56.txt": "090de05dda410d211dafd53b8ba95a57d7c58bc4cc57c6068c0cb609c2e2634f"
+  },
+  "revision": "3e558089863c89231c418d00a663a1eb219152afc57957d039dc8c8205276332"
+}
